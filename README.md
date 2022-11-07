@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Debugging this application in VsCode locally
+
+1. Execute 'npm start' in your terminal.
+2. Set a breakpoint
+3. Run the 'Launch Chrome against localhost' configuration, inside the Run And Debug panel in VsCode.
+
 ## Available Scripts
 
 In the project directory, you can run:
